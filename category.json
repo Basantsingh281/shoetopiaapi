@@ -1,0 +1,36 @@
+db.category.insert(
+   [
+    {
+        "id": 1,
+        "name": "Newest Arrivals"
+    },
+    {
+        "id": 2,
+        "name": "Sandals"
+    },
+    {
+        "id": 3,
+        "name": "Heels"
+    },
+    {
+        "id": 4,
+        "name": "Wedge"
+    },
+    {
+        "id": 5,
+        "name": "Flats"
+    },
+    {
+        "id": 6,
+        "name": "Sneakers"
+    },
+    {
+        "id": 7,
+        "name": "Boots"
+    }
+  ]
+)
+
+
+
+

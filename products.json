@@ -1,0 +1,222 @@
+db.products.insert(
+[
+    {
+        "id": 1,
+        "product_name": "Casual lace-up sneakers",
+        "category": "Newest Arrivals",
+        "category_id": 1,
+        "Price": 2880,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-casual-lace-up-sneaker-soda-shoes-endear-cute-laces-footwear-shoe-photograph-259_295x.jpg?v=1644362190",
+        "Color": "Black"
+    },
+    {
+        "id": 2,
+        "product_name": "Essential side zip botie",
+        "category": "Newest Arrivals",
+        "category_id": 1,
+        "Price": 2500,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-essential-side-zip-bootie-qupid-shoes-sochi-133-ankle-boot-booties-cute-zipper-footwear-jeans-trousers-606_295x.jpg?v=1644360377",
+        "Color": "white"
+    },
+    {
+        "id": 3,
+        "product_name": "Braided short mule",
+        "category": "Newest Arrivals",
+        "category_id": 1,
+        "Price": 1900,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-braided-short-mule-yoki-glenny-heel-mules-slip-on-footwear-brown-shoe-156_295x.jpg?v=1644360092",
+        "Color": "Brown"
+    },
+    {
+        "id": 4,
+        "product_name": "Zippered Biker Boot",
+        "category": "Newest Arrivals",
+        "category_id": 1,
+        "Price": 3000,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-zippered-biker-boot-bamboo-capture-04-leather-brown-shoe-knee-386_700x.jpg?v=1644358274",
+        "Color": "Black"
+    },
+    {
+        "id": 5,
+        "product_name": "Girly Espadrille Wedge",
+        "category": "Newest Arrivals",
+        "category_id": 1,
+        "Price": 1899,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-girly-espadrille-wedge-soda-shoes-steady-s-flower-basic-pump-sandal-223_700x.jpg?v=1644357675",
+        "Color": "Brown"
+    },
+    {
+        "id": 6,
+        "product_name": "Everyday Side Slit Ankle Booties",
+        "category": "Newest Arrivals",
+        "category_id": 1,
+        "Price": 2999,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-everyday-side-slit-ankle-booties-mata-dressy-low-cut-trendy-footwear-shoe-synthetic-963_700x.jpg?v=1642183876",
+        "Color": "Brown"
+    },
+    {
+        "id": 7,
+        "product_name": "Elegant T Strap Sandals",
+        "category": "Sandals",
+        "category_id": 2,
+        "Price": 1599,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-elegant-t-strap-sandals-city-classified-shoes-stylish-thong-toe-footwear-shoe-fashion-160_700x.jpg?v=1642555930",
+        "Color": "Black"
+    },
+    {
+        "id": 8,
+        "product_name": "Elina Elastic Everyday Sandals",
+        "category": "Sandals",
+        "category_id": 2,
+        "Price": 1999,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-elina-elastic-everyday-sandals-forever-handiness-42-comfortable-slip-on-stretchy-footwear-street-fashion-563_590x.jpg?v=1631813809",
+        "Color": "Yellow"
+    },
+    {
+        "id": 9,
+        "product_name": "Brianne Braided Thong-Toe Sandals",
+        "category": "Sandals",
+        "category_id": 2,
+        "Price": 2580,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-brianne-braided-thong-toe-sandals-forever-handiness-2-comfortable-summer-tan-foot-high-heels-703_700x.jpg?v=1629837913",
+        "Color": "Red"
+    },
+    {
+        "id": 10,
+        "product_name": "X Strap Platform Heels",
+        "category": "Heels",
+        "category_id": 3,
+        "Price": 1599,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-x-strap-platform-heels-soda-shoes-edgy-stylish-footwear-shoe-knee-311_1000x.jpg?v=1642192873",
+        "Color": "Black"
+    },
+    {
+        "id": 11,
+        "product_name": "Rhinestone Cuff Heels",
+        "category": "Heels",
+        "category_id": 3,
+        "Price": 1999,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-rhinestone-cuff-heels-lovmark-thrills-10-classy-comfortable-elegant-footwear-plant-sleeve-613_590x.jpg?v=1630012269",
+        "Color": "Pink"
+    },
+    {
+        "id": 12,
+        "product_name": "Madonna High Platform Heel",
+        "category": "Heels",
+        "category_id": 3,
+        "Price": 2580,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-madonna-high-platform-heel-soda-shoes-grunge-stylish-footwear-jeans-shoe-692_590x.jpg?v=1642453567",
+        "Color": "Brown"
+    },
+    {
+        "id": 13,
+        "product_name": "Girly Espadrille Wedge",
+        "category": "Wedge",
+        "category_id": 4,
+        "Price": 2499,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-girly-espadrille-wedge-soda-shoes-steady-s-flower-basic-pump-sandal-223_700x.jpg?v=1644357675",
+        "Color": "Black"
+    },
+    {
+        "id": 14,
+        "product_name": "Adriana Tie-Up Peep-Toe Wedges",
+        "category": "Wedge",
+        "category_id": 4,
+        "Price": 1799,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-adriana-tie-up-peep-toe-wedges-qupid-shoes-drake-01-casual-comfortable-espadrille-footwear-shoe-basic-967_590x.jpg?v=1628183173",
+        "Color": "Blue"
+    },
+    {
+        "id": 15,
+        "product_name": "Carina Caged Wedges",
+        "category": "Wedge",
+        "category_id": 4,
+        "Price": 2370,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-carina-caged-wedges-anna-shoes-scoop-5-casual-comfy-pastel-footwear-jeans-shoe-972_590x.jpg?v=1628637996",
+        "Color": "Black"
+    },
+    {
+        "id": 16,
+        "product_name": "Pinhole Slip On Mule",
+        "category": "Flats",
+        "category_id": 5,
+        "Price": 2199,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-pinhole-slip-on-mule-ml-shoes-mules-footwear-outdoor-shoe-683_1200x.jpg?v=1643310436",
+        "Color": "Black"
+    },
+    {
+        "id": 17,
+        "product_name": "Lucky Buckle Flats",
+        "category": "Flats",
+        "category_id": 5,
+        "Price": 1499,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-lucky-buckle-flats-bella-marie-loafers-footwear-brown-shoe-203_590x.jpg?v=1642183299",
+        "Color": "Black"
+    },
+    {
+        "id": 18,
+        "product_name": "Alana Fringed Loafers",
+        "category": "Flats",
+        "category_id": 5,
+        "Price": 2410,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-alana-fringed-loafers-arider-girl-1-flats-footwear-outerwear-shoe-601_590x.jpg?v=1636051945",
+        "Color": "Brown"
+    },
+    {
+        "id": 19,
+        "product_name": "Rhyme Cushion Sneakers",
+        "category": "Sneakers",
+        "category_id": 6,
+        "Price": 2740,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-rhyme-cushion-sneakers-refresh-02-casual-comfy-laces-footwear-shoe-sleeve-318_700x.jpg?v=1634939179",
+        "Color": "Black"
+    },
+    {
+        "id": 20,
+        "product_name": "Regan Zip-Up Casual Sneakers",
+        "category": "Sneakers",
+        "category_id": 6,
+        "Price": 2380,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-regan-zip-up-casual-sneakers-forever-33-everyday-footwear-shoe-black-796_590x.jpg?v=1634212947",
+        "Color": "Black"
+    },
+    {
+        "id": 21,
+        "product_name": "Western Buckled Boots",
+        "category": "Boots",
+        "category_id": 7,
+        "Price": 1999,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-western-buckled-boots-soda-shoes-shena-h-booties-brown-buckle-footwear-shoe-752_590x.jpg?v=1643750195",
+        "Color": "Brown"
+    },
+    {
+        "id": 22,
+        "product_name": "Zippered Biker Boot",
+        "category": "Boots",
+        "category_id": 7,
+        "Price": 2399,
+        "Image": "https://cdn.shopify.com/s/files/1/2049/1027/products/womens-zippered-biker-boot-bamboo-capture-04-leather-brown-shoe-knee-386_700x.jpg?v=1644358274",
+        "Color": "Black"
+    }
+]
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
